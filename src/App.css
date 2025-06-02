@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+@font-face {
+    font-family: nebula;
+    src: url(assets/NebulaSans-Medium.ttf);
+}
+* {
+    font-family: nebula, "Noto Color Emoji", sans-serif;
+}
